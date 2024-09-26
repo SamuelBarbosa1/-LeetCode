@@ -1,0 +1,14 @@
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\bin\Debug\net8.0\Csharp.exe
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\bin\Debug\net8.0\Csharp.deps.json
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\bin\Debug\net8.0\Csharp.runtimeconfig.json
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\bin\Debug\net8.0\Csharp.dll
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\bin\Debug\net8.0\Csharp.pdb
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfoInputs.cache
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfo.cs
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.csproj.CoreCompileInputs.cache
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.dll
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\refint\Csharp.dll
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.pdb
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\Csharp.genruntimeconfig.cache
+D:\samuel\TUDO EM GOLANG\LeetCode\Csharp\obj\Debug\net8.0\ref\Csharp.dll
