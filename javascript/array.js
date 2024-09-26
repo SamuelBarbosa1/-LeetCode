@@ -21,4 +21,4 @@ function secondLargest(arr) {
 let array = [12, 35, 1, 10, 34, 1];
 console.log("Segundo maior número:", secondLargest(array)); // Saída: 34
 
-// 1. Encontre o segundo maior elemento em um array:
+// 1. Encontre o segundo maior elemento em um array :
